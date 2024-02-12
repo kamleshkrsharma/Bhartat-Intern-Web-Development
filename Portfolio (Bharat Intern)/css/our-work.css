@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 40px;
+}
+
+.project {
+  margin-top: 50px;
+  position: absolute;
+}
+
+h4 {
+  font-size: 35px;
+  margin-left: 550px;
+  margin-top: 50px;
+}
+
+.line1 {
+  display: flex;
+  width: 96%;
+  margin: 22px;
+  border-radius: 25px;
+  box-shadow: 0 0 20px darkblue;
+}
+
+p {
+  margin-left: 130px;
+  margin-top: 2px;
+}
+
+.landing1 img,
+.landing2 img,
+.portfolio1 img,
+.portfolio2 img,
+.amazon img,
+.flipkart img,
+.calculator img,
+.temp img,
+.spotify img,
+.image-gallery img,
+.intern-web img,
+.basic-form img {
+  width: 80%;
+  border-radius: 25px;
+  margin-left: 28px;
+
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 0 0 80px darkblue;
+}
+
+.line2 {
+  display: flex;
+  width: 96%;
+  margin: 22px;
+  border-radius: 25px;
+  box-shadow: 0 0 20px darkblue;
+}
+
+.line3 {
+  display: flex;
+  width: 96%;
+  margin: 22px;
+  border-radius: 25px;
+  box-shadow: 0 0 20px darkblue;
+}
+
+.line4 {
+  display: flex;
+  width: 96%;
+  margin: 22px;
+  border-radius: 25px;
+  box-shadow: 0 0 20px darkblue;
+}

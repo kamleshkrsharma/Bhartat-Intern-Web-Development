@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  text-align: center;
+  font-weight: bolder;
+  box-shadow: 0px 10px 15px aqua;
+}
+
+main {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-around;
+}
+
+.contact-information {
+  background-color: aqua;
+  margin: 10px;
+  border-radius: 25px;
+  width: 600px;
+  height: 550px;
+}
+
+.contact-information h2,
+p {
+  text-align: center;
+}
+
+.contact-information a {
+  text-decoration: none;
+  color: black;
+  text-align: start;
+  font-size: 25px;
+  margin-top: 15px;
+  margin-left: 55px;
+  line-height: 1.5;
+}
+
+.contact-information a i {
+  font-size: 25px;
+}
+
+p {
+  margin: 20px;
+  font-size: 1.2rem;
+}
+
+.icons {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.icons a {
+  font-size: 30px;
+  margin: 15px;
+}
+
+.icons a :hover {
+  color: blue;
+  border: 1px solid white;
+}
+
+.message {
+  margin-top: 15px;
+  width: 600px;
+  height: 550px;
+  border: 1px solid yellow;
+  border-radius: 25px;
+}
+
+.message h2 {
+  text-align: center;
+}
+
+input {
+  margin: 10px;
+  margin-left: 30px;
+  margin-top: 20px;
+  align-items: start;
+  height: 30px;
+  width: 250px;
+}
+
+#first {
+  margin-top: 50px;
+}
+
+#your-message {
+  height: 100px;
+  width: 545px;
+}
+
+button {
+  margin-left: 480px;
+  margin-top: 20px;
+  border-radius: 25px;
+  background-color: aqua;
+  border: none;
+  padding: 10px 30px;
+}
+
+button:hover {
+  background-color: blue;
+  cursor: pointer;
+}
