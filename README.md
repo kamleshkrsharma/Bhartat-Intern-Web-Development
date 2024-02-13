@@ -1,5 +1,6 @@
 Bharat Intern
 Domain : Web Development Internship
-Task : Portfolio Website
+Task 1 : Portfolio Website
+Task 2 : Netflix Clone
 
 #bharatintern #portfolio
